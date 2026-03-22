@@ -5,6 +5,7 @@ Senior Software Developer & Tech Lead | PHP · Node.js · Go · AWS
 [![My Skills](https://skillicons.dev/icons?i=ansible,go,aws,php,js,laravel,nodejs)](https://sivasubramanian.me)
 
 ### Current Focus
+  - Building [Wand](https://www.wand.social)
   - Building my AWS skills
   - Building my skills on Go
 
