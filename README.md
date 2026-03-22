@@ -8,6 +8,10 @@ Senior Software Developer & Tech Lead | PHP · Node.js · Go · AWS
   - Building my AWS skills
   - Building my skills on Go
 
+### Links
+  - [Linkedin](https://www.linkedin.com/in/siva-thecmsguy/)
+  - [Website](https://sivasubramanian.me)
+  
 <!--
 **sridhar-s-subramanian/sridhar-s-subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
